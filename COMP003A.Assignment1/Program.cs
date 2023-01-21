@@ -70,7 +70,34 @@ namespace COMP003A.Assignment1
             Console.WriteLine("We adopted her as a young pup");
             Console.WriteLine("Ruby has a weird long neck");
             Console.WriteLine("Ruby has found her forever home");
-              
+            Console.WriteLine("I started working at 13 years old");
+            Console.WriteLine("I worked in the agriculture fields of the central valley");
+            Console.WriteLine("I worked in weeding the tomato plant");
+            Console.WriteLine("I worked in weeding the cotton plant");
+            Console.WriteLine("I worked irrigation installation systems");
+            Console.WriteLine("I worked alongside of my father");
+            Console.WriteLine("My father would wake me up at 0400 hours");
+            Console.WriteLine("My father showed me how to worker hard");
+            Console.WriteLine("My father wanted me to learn the value of money");
+            Console.WriteLine("My father wanted me to learn how to make money");
+            Console.WriteLine("My father told me to stay in school");
+            Console.WriteLine("My father gave me my work ethic");
+            Console.WriteLine("My father was a beast when it came to working");
+            Console.WriteLine("My father wanted me to work like a man at 13 ....lol");
+            Console.WriteLine("My father was a tough dude");
+            Console.WriteLine("My father is a big softie....now");
+            Console.WriteLine("My father is my best friend");
+            Console.WriteLine("I can talk to my father about anything");
+            Console.WriteLine("My father only gives me his opinion if I ask him something");
+            Console.WriteLine("My relationship with my father is wonderful");
+            Console.WriteLine("My father is turning 75 years old this month");
+            Console.WriteLine("I am fortunate to have my father");
+            Console.WriteLine("I am fortunate to have my mother");
+            Console.WriteLine("I am fortunate to have an understanding wife");
+            Console.WriteLine("Vanessa is a great mother");
+            Console.WriteLine("Vanessa keeps everyone on the same page ");
+            Console.WriteLine("There is nothing like having a great woman by your side ");
+            Console.WriteLine("I am greatful for my life and I'm blessed");
         }
     }
 }
